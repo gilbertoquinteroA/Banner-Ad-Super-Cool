@@ -1,2 +1,2 @@
 # Banner-Ad-Super-Cool
-![ Banner-Ad-Super-Cool](https://ibb.co/jfUHGw)
+<a href="https://ibb.co/jfUHGw"><img src="https://preview.ibb.co/nPFDpG/adCool.png" alt="adCool" border="0"></a>
