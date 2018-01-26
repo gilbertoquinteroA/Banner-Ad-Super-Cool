@@ -1,2 +1,2 @@
 # Banner-Ad-Super-Cool
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![ Banner-Ad-Super-Cool](https://ibb.co/jfUHGw)
